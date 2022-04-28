@@ -48,3 +48,9 @@ body
 {
     padding: 1 em;
 }
+#footer
+{
+    background: rgb(0, 0, 0);
+    color:white;
+    text-align: center;
+}

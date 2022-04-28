@@ -1,31 +1,38 @@
 body
 {
+    background: #1e1f24;
     color: rgb(0, 0, 0);
     text-align: left;
     font-family: "Bebas Neue";
-    font-size: 16px;
+    font-size: 20px;
     margin: 0;
     padding: 0;
 
 }
 #cabecera
 {
-    background: #AAF;
+    background: #AAF ;
     color: white;
     box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);
     font-weight: bold;
-    font-size: 25;
+    font-size: 35;
     margin: 0;
-    padding: 0.7em;
+    padding: 0.4em 0 0.4em 1em;
+}
+#cabecera #logo
+{
+    width: 50px;
+    vertical-align: middle;
 }
 #cabecera #tagline
 {
-    padding: 0 0 0 0.7em;
+    padding: 0 0 0 0.5em;
     font-weight: normal;
     font-size: 0.7em;
 }
 #container
 {
+    background: rgb(233, 233, 233) ;
     width: 70%;
     padding: 10;
     text-align: left;
@@ -35,9 +42,15 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size:25px;
 }
 #post
 {
     padding: 1 em;
+}
+#footer
+{
+    background: rgb(0, 0, 0);
+    color:white;
+    text-align: center;
 }

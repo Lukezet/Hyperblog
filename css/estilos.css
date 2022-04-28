@@ -50,7 +50,8 @@ body
 }
 #footer
 {
-    background: rgb(0, 0, 0);
-    color:white;
+    background: #AAF;
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.5);
+    color:rgb(0, 0, 0);
     text-align: center;
 }

@@ -3,3 +3,10 @@ This is the story of Lucas Zeta
 Lucas Zeta has 26 years old and he was born in Argentina
 
 Tomorrow we'r focus on his future
+
+He is finishing his eighth course at Platzi Academy
+and he was do it in just one month. In one month he was 
+learn about the Command line in terminal, about Python 
+too a few of english, Git and GitHub and more things about 
+technologies . all of it and more since zero. its a great 
+Achievement for him.
